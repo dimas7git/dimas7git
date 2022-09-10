@@ -4,9 +4,7 @@
         <p align="center">Atualmente estou cursando o 2º ano de Sistema de Informação no <a
                 href="https://vtp.ifsp.edu.br/"><i> Instituto Federal de São Paulo</i></a>, Votuporanga - SP
             </a><br> 
-        <p align="center">Sou apaixonado por criar coisas novas e ver o código que escrevo ganhando "vida". Adoro
-            estudar sobre tecnologia e principalmente desenvolvimento e também contribuir na comunidade, minha equipe ou
-            ajudar uma pessoa aleatória com algo que escrevi!</h2>
+        <p align="center">Sou apaixonado por criar códigos e ver eles ganhando "vida".Adoro estudar sobre tecnologias e sobre desenvolvimento, também amo contribuir com meu conhecimento para ajudar as pessoas!</h2>
     </div>
     <div align="center">
         <a href="https://github.com/dimas7ferreira">

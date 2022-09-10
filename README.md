@@ -1,1 +1,85 @@
-# ProfileGitHub
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/dimas7ferreira/"><i>Dimas
+                    Ferreira</i></a></h1>
+        <p align="center">Atualmente estou cursando o 2º ano de Sistema de Informação no <a
+                href="https://vtp.ifsp.edu.br/"><i> Instituto Federal de São Paulo</i></a>, Votuporanga - SP
+            </a><br>
+        <p align="center">Sou apaixonado por criar coisas novas e ver o código que escrevo ganhando "vida". Adoro
+            estudar sobre tecnologia e principalmente desenvolvimento e também contribuir na comunidade, minha equipe ou
+            ajudar uma pessoa aleatória com algo que escrevi!</h2>
+    </div>
+
+
+    <!-- <h1 align="center"> 
+        Trybe
+      </h1>
+      
+      <p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
+
+    <div align="center">
+        <a href="https://github.com/dimas7ferreira">
+            <img height="150em"
+                src="https://github-readme-stats.vercel.app/api?username=dimas7ferreira&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" />
+            <img height="150em"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas7ferreira&theme=dracula&hide_border=false&&layout=compact" />
+        </a>
+    </div>
+
+    <div align="center" valign="top"><br>
+        <img align="center" alt="Js" height="30" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="center" alt="HTML" height="30" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="center" alt="CSS" height="30" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img align="center" alt="git" height="30" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+        <img align="center" alt="github" height="35" width="35" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU">
+        <img align="center" alt="java" height="30" width="40"
+            src="https://www.infoescola.com/wp-content/uploads/2011/03/java.jpg">
+        <img align="center" alt="c++" height="30" width="40"
+            src="https://1.bp.blogspot.com/-RV-HrvfYVGg/XThtxkUd0JI/AAAAAAAAVuA/lbH0GXvHbVAS_QhWnB3Cr6C8Fr5Q795LwCLcBGAs/s1600/c%252B%252B.jpg">
+        <img align="center" alt="java" height="30" width="40"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
+        <img align="center" alt="linux" height="30" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    </div><br>
+
+    <div align="center">
+        <a href="https://www.instagram.com/dimas7fe/" target="_blank"><img
+                src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+                target="_blank"></a>
+        <a href="https://www.linkedin.com/in/dimas7ferreira/" target="_blank"><img
+                src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+                target="_blank"></a>
+        <a href="mailto:dimaslimaferreira@gmail.com"><img
+                src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+                target="_blank"></a>
+    </div>
+
+    <div align="center">
+
+        ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+    </div>
+
+    <div align="center">
+        <p>Feito com :heart: e JavaScript.</p>
+        <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a
+                href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+    </div>
+
+</body>
+
+</html>

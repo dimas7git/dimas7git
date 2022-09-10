@@ -1,31 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
-    <div>
+<div>
         <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/dimas7ferreira/"><i>Dimas
                     Ferreira</i></a></h1>
         <p align="center">Atualmente estou cursando o 2º ano de Sistema de Informação no <a
                 href="https://vtp.ifsp.edu.br/"><i> Instituto Federal de São Paulo</i></a>, Votuporanga - SP
-            </a><br>
+            </a><br> 
         <p align="center">Sou apaixonado por criar coisas novas e ver o código que escrevo ganhando "vida". Adoro
             estudar sobre tecnologia e principalmente desenvolvimento e também contribuir na comunidade, minha equipe ou
             ajudar uma pessoa aleatória com algo que escrevi!</h2>
     </div>
-
-
-    <!-- <h1 align="center"> 
-        Trybe
-      </h1>
-      
-      <p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
     <div align="center">
         <a href="https://github.com/dimas7ferreira">
@@ -45,13 +27,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="center" alt="git" height="30" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-        <img align="center" alt="github" height="35" width="35" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU">
-        <img align="center" alt="java" height="30" width="40"
-            src="https://www.infoescola.com/wp-content/uploads/2011/03/java.jpg">
-        <img align="center" alt="c++" height="30" width="40"
-            src="https://1.bp.blogspot.com/-RV-HrvfYVGg/XThtxkUd0JI/AAAAAAAAVuA/lbH0GXvHbVAS_QhWnB3Cr6C8Fr5Q795LwCLcBGAs/s1600/c%252B%252B.jpg">
-        <img align="center" alt="java" height="30" width="40"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
+
         <img align="center" alt="linux" height="30" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     </div><br>
@@ -79,7 +55,3 @@
         <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a
                 href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
     </div>
-
-</body>
-
-</html>

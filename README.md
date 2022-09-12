@@ -1,7 +1,7 @@
 <div>
         <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/dimas7ferreira/"><i>Dimas
                     Ferreira</i></a></h1>
-        <p align="center">Atualmente estou cursando o 2º ano de Sistema de Informação no <a
+        <p align="center">Atualmente estou cursando o 2º ano de Sistema da Informação no <a
                 href="https://vtp.ifsp.edu.br/"><i> Instituto Federal de São Paulo</i></a>, Votuporanga - SP
             </a><br> 
         <p align="center">Sou apaixonado por criar códigos e ver eles ganhando "vida".Adoro estudar sobre tecnologias e sobre desenvolvimento, também amo contribuir com meu conhecimento para ajudar as pessoas!</h2>

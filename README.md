@@ -1,6 +1,6 @@
 <div>
-        <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/dimas7ferreira/"><i>Dimas
-                    Ferreira</i></a></h1>
+        <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/dimas7f/"><i>Dimas
+                    F.</i></a></h1>
         <p align="center">Atualmente estou cursando o 5º Semestre de Sistema da Informação no <a
                 href="https://vtp.ifsp.edu.br/"><i> Instituto Federal de São Paulo</i></a>, Votuporanga - SP
             </a><br> 

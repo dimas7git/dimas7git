@@ -7,7 +7,7 @@
         <p align="center">Sou apaixonado por criar códigos e ver eles ganhando "vida".Adoro estudar sobre tecnologias e sobre desenvolvimento, também amo contribuir com meu conhecimento para ajudar as pessoas!</h2>
     </div>
     <div align="center">
-        <a href="https://github.com/dimas7ferreira">
+        <a href="https://github.com/dimas7git
             <img height="150em"
                 src="https://github-readme-stats.vercel.app/api?username=dimas7ferreira&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" />
             <img height="150em"

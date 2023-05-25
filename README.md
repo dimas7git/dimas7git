@@ -35,7 +35,6 @@
         <a href="mailto:dimaslimaferreira@gmail.com"><imgsrc="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     </div>
    <div align="center">
-  
   ![Snake animation](https://github.com/dimas7ferreira/ProfileGitHub/blob/output/github-contribution-grid-snake.svg)
   ![TryHackMe Badge](https://tryhackme.com/badge/1816011)
 </div>

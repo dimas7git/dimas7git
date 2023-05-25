@@ -38,5 +38,5 @@
                       
   ![Snake animation](https://github.com/dimas7ferreira/ProfileGitHub/blob/output/github-contribution-grid-snake.svg)
    
-   <img src="https://tryhackme-badges.s3.amazonaws.com/dimas7ferreira.png" alt="TryHackMe">
+   <img src="https://tryhackme-badges.s3.amazonaws.com/dimas7ferreira.pngaaa" alt="TryHackMe">
 </div>

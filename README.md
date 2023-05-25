@@ -1,10 +1,8 @@
 <div>
-        <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/dimas7f/"><i>Dimas
-                    F.</i></a></h1>
+        [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Dimas;Sou+aluno+de+Sistemas+de+Informação+no+IFSP;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
         <p align="center">Atualmente estou cursando o 5º Semestre de Sistema da Informação no <a
                 href="https://vtp.ifsp.edu.br/"><i> Instituto Federal de São Paulo</i></a>, Votuporanga - SP
             </a><br> 
-        <p align="center">Sou apaixonado por criar códigos e ver eles ganhando "vida".Adoro estudar sobre tecnologias e sobre desenvolvimento, também amo contribuir com meu conhecimento para ajudar as pessoas!</h2>
     </div>
     <div align="center">
         <a href="https://github.com/dimas7git

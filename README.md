@@ -28,8 +28,7 @@
         <img align="center" alt="java" height="30" width="40"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
         <img align="center" alt="linux" height="30" width="40"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-                                                                                                         
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">                                                                                                    
     </div><br>
                                                                                                        
     <div align="center">

@@ -5,7 +5,7 @@
 <br>
 <br>
      <div>
-        <p align="center">Graduated in the "Técnico de Informática" course in "IFSP, Votuporanga - SP"
+        <p align="center">I'm 19 years old, graduated in the "Técnico de Informática" course in "IFSP, Votuporanga - SP"
             </a><br> 
         <p align="center">Currently in the 5th semester of "Sistema da Informação" at IFSP (<a
                 href="https://vtp.ifsp.edu.br/"><i>Instituto Federal de São Paulo

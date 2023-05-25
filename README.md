@@ -29,8 +29,9 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
         <img align="center" alt="linux" height="30" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+       <script src="https://tryhackme.com/badge/1816011"></script>                                                                                                    
     </div><br>
-   <script src="https://tryhackme.com/badge/1816011"></script>                                                                                                     
+                                                                                                       
     <div align="center">
         <a href="https://www.linkedin.com/in/dimas7/" target="_blank"><imgsrc="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         <a href="mailto:dimaslimaferreira@gmail.com"><imgsrc="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

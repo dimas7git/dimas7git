@@ -38,5 +38,7 @@
                       
   ![Snake animation](https://github.com/dimas7ferreira/ProfileGitHub/blob/output/github-contribution-grid-snake.svg)
                       
-  ![TryHackMe Badge](https://tryhackme.com/badge/1816011)
+  ```
+<script src="https://tryhackme.com/badge/1816011"></script>
+  ```
 </div>

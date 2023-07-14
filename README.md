@@ -8,7 +8,7 @@
        <h2 align="center">Back-end Engineer and CyberSecurity enthusiast.</h2>
         <p align="center">I'm 19 years old, graduated in the "Técnico de Informática" course in "IFSP, Votuporanga - SP"
             </a><br> 
-        <p align="center">Currently in the 5th semester of "Sistema da Informação" at IFSP (<a
+        <p align="center">Currently in the 6th semester of "Sistema da Informação" at IFSP (<a
                 href="https://vtp.ifsp.edu.br/"><i>Instituto Federal de São Paulo
             </a>), Votuporanga - SP<br> 
     </div>

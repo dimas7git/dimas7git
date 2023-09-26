@@ -11,8 +11,10 @@
         <p align="center">Currently in the 6th semester of "Sistema da Informação" at IFSP (<a
                 href="https://vtp.ifsp.edu.br/"><i>Instituto Federal de São Paulo
             </a>), Votuporanga - SP<br> 
+         <br> Contact me <br><a href="https://www.linkedin.com/in/dimas7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
     </div>
-    <div align="center">
+
+ <div align="center">
   <a href="https://github.com/dimas7git">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas7git&layout=compact&langs_count=10&theme=algolia"/>
    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=dimas7git&hide=contribs,prs&theme=algolia"/> 
@@ -25,15 +27,8 @@
         <a href="mailto:dimaslimaferreira@gmail.com"><imgsrc="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     </div>
    <div align="center">
-                      
-  ![Snake animation](https://github.com/dimas7ferreira/ProfileGitHub/blob/output/github-contribution-grid-snake.svg)
-  
- <a href="https://www.linkedin.com/in/dimas7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> <br>
+                        
  <a href="https://tryhackme.com/p/dimas7ferreira"><img src="https://tryhackme-badges.s3.amazonaws.com/dimas7ferreira.png?3" alt="TryHackMe"></a> 
 
 
- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dimas7git}/count.svg" /></p> 
-<br></div>
  </div>

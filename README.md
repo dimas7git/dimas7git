@@ -1,8 +1,8 @@
-
+<br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Dimas;Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<br>
+<br><br><br>
      <div>
        <h2 align="center">Back-end Engineer and CyberSecurity enthusiast.</h2>
         <p align="center">I'm 20 years old, graduated in the "Técnico de Informática" course in "IFSP, Votuporanga - SP"

@@ -1,9 +1,9 @@
 # Dimas Ferreira
-
-
+<img min-width="250px" max-width="250px" width="250px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas7git&layout=compact&theme=react&count_private=true"/>
+<img min-width="350px" max-width="350px" width="350px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dimas7git&theme=react&hide_border=false"/>
 <p align="left"> 
-      I'm 20 years old, graduated in the "Técnico de Informática" course in <a href="vtp.ifsp.edu.br">IFSP</a>
-     <br> Currently in the 6th semester of "Sistema da Informação" at <a href="vtp.ifsp.edu.br">IFSP</a>
+      I'm 20 years old, graduated in the "Técnico de Informática" course in <a href="vtp.ifsp.edu.br">IFSP</a>.
+     <br> Currently in the 6th semester of "Sistema da Informação" at <a href="vtp.ifsp.edu.br">IFSP</a>.
 </p>
 
 <p align="left">
@@ -76,17 +76,3 @@
   ![Figma](https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma)
   ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
   </details>
-
-# My Status
-<div>
-  <table style="margin: 0 auto;" align="center">
-    <tr>
-      <td>
-        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=dimas7git&theme=react&hide_border=false"/>
-      </td>
-      <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas7git&layout=compact&theme=react&count_private=true"/>
-      </td>
-    </tr>
-  </table>
-</div>

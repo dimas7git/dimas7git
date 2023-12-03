@@ -5,7 +5,7 @@
       I'm 20 years old, graduated in the "Técnico de Informática" course in <a href="vtp.ifsp.edu.br">IFSP</a>.
      <br> Currently in the 6th semester of "Sistema da Informação" at <a href="vtp.ifsp.edu.br">IFSP</a>.
 </p>
-
+<br>
 <p align="left">
  I'm a software engineer focused mainly on Backend, CyberSecurity and DevOps.
 </p>

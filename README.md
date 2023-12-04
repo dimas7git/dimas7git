@@ -2,8 +2,8 @@
 <img min-width="250px" max-width="250px" width="250px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas7git&layout=compact&theme=react&count_private=true"/>
 <img min-width="350px" max-width="350px" width="350px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dimas7git&theme=react&hide_border=false"/>
 <p align="left"> 
-      I'm 20 years old, graduated in the "Técnico de Informática" course in <a href="vtp.ifsp.edu.br">IFSP</a>.
-     <br> Currently in the 6th semester of "Sistema da Informação" at <a href="vtp.ifsp.edu.br">IFSP</a>.
+      I'm 20 years old, graduated in the "Técnico de Informática" course in <a href="https://vtp.ifsp.edu.br/">IFSP</a>.
+     <br> Currently in the 6th semester of "Sistema da Informação" at <a href="https://vtp.ifsp.edu.br/">IFSP</a>.
 </p>
 <br>
 <p align="left">

@@ -7,7 +7,7 @@
 </p>
 <br>
 <p align="left">
- I'm a software engineer focused mainly on Backend, CyberSecurity and DevOps.
+ I'm a software engineer focused mainly on Backend.
 </p>
 
 <p align="left">

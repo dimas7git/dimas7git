@@ -7,7 +7,8 @@
 ## Tech Stack  
 
 - **Languages:** Python, Java, C, JavaScript, HTML, CSS  
-- **Backend:** Spring Boot, Node.js, PHP  
+- **Backend:** Spring Boot, Node.js, PHP
+- **Frontend:** React, Next.js, Tailwind CSS   
 - **Databases:** MySQL, PostgreSQL  
 - **DevOps & Cloud:** Docker, AWS, Google Cloud, Kubernetes, Terraform  
 - **Tools:** Git, Trello, Slack, Figma, Postman  

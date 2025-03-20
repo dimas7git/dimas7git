@@ -1,7 +1,6 @@
 # Dimas Ferreira  
 
  **BSc. in Information Systems** @ [Federal Institute of São Paulo (IFSP)](https://vtp.ifsp.edu.br/)  
- Passionate about solving complex problems with technology  
  Software Engineer 
 
 ## Tech Stack  

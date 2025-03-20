@@ -12,6 +12,6 @@
 - **DevOps & Cloud:** Docker, AWS, Google Cloud, Kubernetes, Terraform  
 - **Tools:** Git, Trello, Slack, Figma, Postman  
 
-## 📬 Contact  
+##  Contact  
 
 [LinkedIn](https://www.linkedin.com/in/dimas7) | [Email](mailto:dimas7.comunicacao@gmail.com)
